@@ -4,7 +4,7 @@ This repo holds the GitHub Pages for tommodore.net.
 Free for personal and commercial use under the CCA 3.0 license
 ### Credits
 ##### Theme
-Aerial 1.0 by [html5up.net](http://html5up.net) | @[n33.co](http://n33.co)
+Aerial 1.0 by [html5up.net](http://html5up.net) | [n33.co](http://n33.co)
 ##### Images
 Ryan Schroeder (http://www.flickr.com/photos/ryanschroeder/) via Unsplash (http://unsplash.com - CC0 licensed)
 
