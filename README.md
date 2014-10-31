@@ -1,4 +1,5 @@
 # tommodore.net
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tommodore/tommodore.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This repo holds the GitHub Pages for tommodore.net.
 ### License
 Free for personal and commercial use under the CCA 3.0 license
